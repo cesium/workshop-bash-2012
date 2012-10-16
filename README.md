@@ -1,2 +1,4 @@
-Workshop-Bash
+Workshop Bash
 =============
+
+Slides, Exercícios e CheatSheet
